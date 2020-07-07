@@ -1,2 +1,7 @@
 # hello-world
-First respository
+
+Hi there,
+
+My name is Luke.
+
+Let's code.
